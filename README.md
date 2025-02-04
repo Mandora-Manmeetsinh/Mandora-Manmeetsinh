@@ -49,7 +49,3 @@ Here are a few projects that I am particularly proud of:
 ## 🤝 Let's Connect!
 
 Thank you for visiting my profile! I appreciate your support and look forward to connecting with fellow developers and tech enthusiasts. Feel free to reach out or check out my projects!
-
----
-
-Feel free to customize any sections further to better reflect your personality or add any additional information you think is relevant!
