@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a keen interest in building innovative web applications and exploring new technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)  <!-- Replace 'yourusername' with your GitHub username -->
+![Profile Views](https://komarev.com/ghpvc/?username=Mandora-Manmeetsinh&color=blue)  <!-- Replace 'yourusername' with your GitHub username -->
 
 ## 🔧 Technologies & Skills
 
