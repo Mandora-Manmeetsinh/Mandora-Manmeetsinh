@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a keen interest in building innovative web applications and exploring new technologies.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mandora-Manmeetsinh&color=blue)  <!-- Replace 'yourusername' with your GitHub username -->
+![GitHub Followers](https://img.shields.io/github/followers/Mandora-Manmeetsinh?style=social)  <!-- Replace 'yourusername' with your GitHub username -->
 
 ## 🔧 Technologies & Skills
 
@@ -49,18 +50,24 @@ Here are a few projects that I am particularly proud of:
 
 ## 🌐 Connect with Me
 
-- [Leetcode](https://leetcode.com/u/OfAk2AI95N/)
-- [Hackkerrank](https://www.hackerrank.com/profile/manmeetmandora20)
-- [LinkedIn](https://www.linkedin.com/in/mandora-manmeetsinh-306950296/)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  <!-- Replace with your LinkedIn profile -->
+- [Hackkerrank](https://www.hackerrank.com/profile/manmeetmandora20)  <!-- Replace with your Twitter profile -->
+- [Leetcode](https://leetcode.com/u/OfAk2AI95N/)  <!-- Replace with your personal website -->
 
 ## 🎉 Fun Fact
 I love exploring new technologies and contributing to open-source projects! 
 
 ## 🤝 Let's Connect!
 
-Thank you for visiting my profile! I appreciate your support and look forward to connecting with fellow developers and tech enthusiasts. Feel free to reach out or check out my projects!
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandora-Manmeetsinh&show_icons=true&theme=radical)  <!-- Replace 'yourusername' with your GitHub username -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandora-Manmeetsinh&layout=compact&theme=radical)  <!-- Replace 'yourusername' with your GitHub username -->
+
+## 📈 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/Mandora-Manmeetsinh/count.svg)  <!-- Replace 'yourusername' with your GitHub username -->
+
+---
+
+Thank you for visiting my profile! I appreciate your support and look forward to connecting with fellow developers and tech enthusiasts. Feel free to reach out or check out my projects!
