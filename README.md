@@ -23,7 +23,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,html,css,tailwind,javascript,react,nodejs,express,mongodb,git,github,postgresql,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,react,nodejs,express,mongodb,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -34,14 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mandora-Manmeetsinh&show_icons=true&theme=radical" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandora-Manmeetsinh&theme=radical" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandora-Manmeetsinh&layout=compact&theme=radical" height="200"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mandora-Manmeetsinh&theme=radical&row=2&column=3" />
 </p>
 
 ---
