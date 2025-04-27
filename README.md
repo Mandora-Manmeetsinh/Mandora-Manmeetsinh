@@ -1,73 +1,116 @@
 # 👋 Hello, I'm Mandora Manmeetsinh!
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a keen interest in building innovative web applications and exploring new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;Android+App+Developer;Lifelong+Learner;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=45">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mandora-Manmeetsinh&color=blue)  <!-- Replace 'yourusername' with your GitHub username -->
-![GitHub Followers](https://img.shields.io/github/followers/Mandora-Manmeetsinh?style=social)  <!-- Replace 'yourusername' with your GitHub username -->
+![Profile Views](https://komarev.com/ghpvc/?username=Mandora-Manmeetsinh&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Mandora-Manmeetsinh?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Mandora-Manmeetsinh?style=social)
 
-## 🔧 Technologies & Skills
+---
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+## 🧑‍💻 About Me
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- 🔭 I’m currently working on **Full-Stack Projects** and **Open Source Contributions**.
+- 🌱 I’m currently learning **Next.js**, **GraphQL**, and **AWS Cloud Services**.
+- 👯 I’m looking to collaborate on **exciting startup ideas**.
+- 💬 Ask me about **React, Node.js, Android Development, MongoDB, and Python**.
+- ⚡ Fun fact: I love solving DSA problems and listening to music while coding.
 
-### Database Management
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🚀 Languages and Tools
 
-## 🌱 Currently Learning
-- Full-stack Development
-- Advanced JavaScript Frameworks
-- Python Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,html,css,tailwind,javascript,react,nodejs,express,mongodb,git,github,postgresql,vscode,androidstudio,figma" />
+</p>
 
-## 💼 Projects
+---
 
-Here are a few projects that I am particularly proud of:
+## 📊 GitHub Stats and Activity
 
-- **HealthGenieAI**: A healthcare website that offers users AI-assisted interactions regarding their symptoms.
-  
-- **Synapse.io**: A platform that consolidates all social media applications, allowing users to group them using an AI-supported system.
-  
-- **Herbanium 2.0**: An interactive and educational Virtual Herbal Garden showcasing a diverse range of medicinal plants used in the AYUSH system.
-  
-- **AskIt**: A platform that leverages collective intelligence by organizing user-generated questions into relevant subgroups, fostering community engagement and streamlining the Q&A process.
-  
-- **Portfolio**: My personal portfolio website where I showcase my projects, skills, and experience.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandora-Manmeetsinh&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandora-Manmeetsinh&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandora-Manmeetsinh&layout=compact&theme=radical" height="200"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mandora-Manmeetsinh&theme=radical&row=2&column=3" />
+</p>
+
+---
+
+## 📚 My Projects
+
+- 🔥 **HealthGenieAI** — AI-driven healthcare platform.
+- 🌟 **Synapse.io** — Smart Social Media Integration.
+- 🌿 **Herbanium 2.0** — Virtual Herbal Garden.
+- 💬 **AskIt** — Smart Community Q&A Platform.
+- 🖥️ **My Portfolio Website** — Showcasing my work.
+
+---
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  <!-- Replace with your LinkedIn profile -->
-- [Hackkerrank](https://www.hackerrank.com/profile/manmeetmandora20)  <!-- Replace with your Twitter profile -->
-- [Leetcode](https://leetcode.com/u/OfAk2AI95N/)  <!-- Replace with your personal website -->
-
-## 🎉 Fun Fact
-I love exploring new technologies and contributing to open-source projects! 
-
-## 🤝 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.hackerrank.com/profile/manmeetmandora20" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/OfAk2AI95N/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandora-Manmeetsinh&show_icons=true&theme=radical)  <!-- Replace 'yourusername' with your GitHub username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandora-Manmeetsinh&layout=compact&theme=radical)  <!-- Replace 'yourusername' with your GitHub username -->
+## 🧩 Fun Corner
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+✨ Random Dev Joke:
+> "Why do programmers prefer dark mode?  
+> Because light attracts bugs!"
+
+---
+
+## ☕ Support Me!
+
+If you like my work, you can support me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/mandora)
+
+---
 
 ## 📈 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/Mandora-Manmeetsinh/count.svg)  <!-- Replace 'yourusername' with your GitHub username -->
+![Visitor Count](https://profile-counter.glitch.me/Mandora-Manmeetsinh/count.svg)
 
 ---
 
-Thank you for visiting my profile! I appreciate your support and look forward to connecting with fellow developers and tech enthusiasts. Feel free to reach out or check out my projects!
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/Mandora-Manmeetsinh/HealthGenieAI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mandora-Manmeetsinh&repo=HealthGenieAI&theme=radical" />
+  </a>
+  <a href="https://github.com/Mandora-Manmeetsinh/Synapse.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mandora-Manmeetsinh&repo=Synapse.io&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🚀 Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 📦 Pushed new features to [HealthGenieAI](https://github.com/Mandora-Manmeetsinh/HealthGenieAI)
+2. 🎯 Created a new repo [Herbanium 2.0](https://github.com/Mandora-Manmeetsinh/Herbanium-2.0)
+3. 🔧 Fixed bugs in [AskIt](https://github.com/Mandora-Manmeetsinh/AskIt)
+<!--END_SECTION:activity-->
+
+---
+
+> 🙏 Thank you for visiting my profile! Keep growing and keep coding! 🚀
