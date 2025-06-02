@@ -1,108 +1,71 @@
-# 👋 Hello, I'm Mandora Manmeetsinh!
+# 👋 Hi there, I'm Mandora Manmeetsinh!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;Android+App+Developer;Lifelong+Learner;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=45">
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mandora-Manmeetsinh&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Mandora-Manmeetsinh?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Mandora-Manmeetsinh?style=social)
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with experience in building dynamic web and mobile applications. I enjoy solving real-world problems through code, contributing to open-source, and constantly learning new technologies.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full-Stack Projects** and **Open Source Contributions**.
-- 🌱 I’m currently learning **Next.js**, **GraphQL**, and **AWS Cloud Services**.
-- 👯 I’m looking to collaborate on **exciting startup ideas**.
-- 💬 Ask me about **React, Node.js, Android Development, MongoDB, and Python**.
-- ⚡ Fun fact: I love solving DSA problems and listening to music while coding.
+- 🔭 Currently working on: **Full-Stack Web Projects** and **Open Source Contributions**
+- 🌱 Learning: **Next.js**, **GraphQL**, and **AWS Cloud Services**
+- 👯 Looking to collaborate on: **Exciting Startup Ideas**
+- 💬 Ask me about: `React`, `Node.js`, `Android`, `MongoDB`, `Python`
+- ⚡ Fun fact: I code better when the music is good & the coffee is strong ☕
 
 ---
 
-## 🚀 Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,react,nodejs,express,mongodb,github,vscode,androidstudio" />
-</p>
-
----
-
-## 📊 GitHub Stats and Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandora-Manmeetsinh&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandora-Manmeetsinh&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandora-Manmeetsinh&layout=compact&theme=radical" height="200"/>
-</p>
+- **Languages:** Java, Kotlin, Python, JavaScript, TypeScript
+- **Web:** React.js, Node.js, Express.js, Next.js
+- **Mobile:** Android (Kotlin), Firebase
+- **Database:** MongoDB, MySQL
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions
+- **Tools:** Git, GitHub, VS Code, Android Studio, Postman
 
 ---
 
-## 📚 My Projects
+## 📚 Highlight Projects
 
-- 🔥 **HealthGenieAI** — AI-driven healthcare platform.
-- 🌟 **Synapse.io** — Smart Social Media Integration.
-- 🌿 **Herbanium 2.0** — Virtual Herbal Garden.
-- 💬 **AskIt** — Smart Community Q&A Platform.
-- 🖥️ **My Portfolio Website** — Showcasing my work.
+Here are some of the cool things I’ve built:
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.hackerrank.com/profile/manmeetmandora20" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/OfAk2AI95N/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
+- 🔥 [`HealthGenieAI`](https://github.com/Mandora-Manmeetsinh/HealthGenieAI) — AI-powered healthcare assistant
+- 🌐 [`Synapse.io`](https://github.com/Mandora-Manmeetsinh/Synapse.io) — Smart social media integration platform
+- 🌿 [`Herbanium 2.0`](https://github.com/Mandora-Manmeetsinh/Herbanium-2.0) — Virtual herbal garden for education and exploration
+- 💬 [`AskIt`](https://github.com/Mandora-Manmeetsinh/AskIt) — Smart Q&A community platform
+- 🖥️ [`Portfolio`](https://github.com/Mandora-Manmeetsinh/Portfolio) — My personal developer portfolio site
 
 ---
 
-## 🧩 Fun Corner
+## 📊 GitHub Stats
 
-> "First, solve the problem. Then, write the code." – John Johnson
-
-✨ Random Dev Joke:
-> "Why do programmers prefer dark mode?  
-> Because light attracts bugs!"
+- 👨‍💻 100+ contributions in the last 12 months
+- 🌟 Starred repositories: [Check them here](https://github.com/Mandora-Manmeetsinh?tab=stars)
+- 🏆 Always learning, always shipping 🚀
 
 ---
 
-## ☕ Support Me!
+## 🌐 Find Me Online
 
-If you like my work, you can support me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/mandora)
-
----
-
-## 📈 Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/Mandora-Manmeetsinh/count.svg)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💻 [HackerRank](https://www.hackerrank.com/profile/manmeetmandora20)
+- 🧠 [LeetCode](https://leetcode.com/u/OfAk2AI95N/)
 
 ---
 
-## 📌 Pinned Repositories
+## 💡 Quote I Live By
 
-<p align="center">
-  <a href="https://github.com/Mandora-Manmeetsinh/HealthGenieAI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mandora-Manmeetsinh&repo=HealthGenieAI&theme=radical" />
-  </a>
-  <a href="https://github.com/Mandora-Manmeetsinh/Synapse.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mandora-Manmeetsinh&repo=Synapse.io&theme=radical" />
-  </a>
-</p>
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
-## 🚀 Latest GitHub Activity
+## ☕ Support My Work
 
-<!--START_SECTION:activity-->
-1. 📦 Pushed new features to [HealthGenieAI](https://github.com/Mandora-Manmeetsinh/HealthGenieAI)
-2. 🎯 Created a new repo [Herbanium 2.0](https://github.com/Mandora-Manmeetsinh/Herbanium-2.0)
-3. 🔧 Fixed bugs in [AskIt](https://github.com/Mandora-Manmeetsinh/AskIt)
-<!--END_SECTION:activity-->
+If you find my work helpful or inspiring, feel free to support me!
+
+**Buy Me a Coffee:** [buymeacoffee.com/mandora](https://buymeacoffee.com/mandora)
 
 ---
 
-> 🙏 Thank you for visiting my profile! Keep growing and keep coding! 🚀
+Thanks for visiting my profile!  
+Let’s build something amazing together. 🚀
