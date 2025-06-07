@@ -47,8 +47,6 @@ Here are some of the cool things I’ve built:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandora-Manmeetsinh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-- **Most Used Languages:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandora-Manmeetsinh&layout=compact&theme=radical)
 - **Trophy Cabinet:**  
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Mandora-Manmeetsinh&theme=radical)
 
