@@ -41,6 +41,8 @@ Here are some of the cool things I’ve built:
 
 - 👨‍💻 100+ contributions in the last 12 months
 - 🌟 Starred repositories: [Check them here](https://github.com/Mandora-Manmeetsinh?tab=stars)
+- ![Mandora-Manmeetsinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandora-Manmeetsinh&show_icons=true&theme=radical)
+
 - 🏆 Always learning, always shipping 🚀
 
 ---
