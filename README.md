@@ -31,7 +31,7 @@ Here are some of the cool things I’ve built:
 
 - 🔥 [`HealthGenieAI`](https://github.com/Mandora-Manmeetsinh/HealthGenieAI) — AI-powered healthcare assistant
 - 🌐 [`Synapse.io`](https://github.com/Mandora-Manmeetsinh/Synapse.io) — Smart social media integration platform
-- 🌿 [`Herbanium 2.0`](https://github.com/Mandora-Manmeetsinh/Herbanium-2.0) — Virtual herbal garden for education and exploration
+- 🌿 [`Herbanium 2.0`](https://github.com/Mandora-Manmeetsinh/The-herbal-codex) — Virtual herbal garden for education and exploration
 - 💬 [`AskIt`](https://github.com/Mandora-Manmeetsinh/AskIt) — Smart Q&A community platform
 - 🖥️ [`Portfolio`](https://github.com/Mandora-Manmeetsinh/Portfolio) — My personal developer portfolio site
 
