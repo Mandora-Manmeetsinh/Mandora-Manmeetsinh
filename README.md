@@ -40,7 +40,7 @@ Here are some of the cool things I’ve built:
 ## 📊 GitHub Stats
 
 - 👨‍💻 100+ contributions in the last 12 months
-- 🌟 Starred repositories: [Check them here](https://github.com/Mandora-Manmeetsinh?tab=stars)
+- 🌟 Starred repositories : [Check them here](https://github.com/Mandora-Manmeetsinh?tab=stars)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mandora-Manmeetsinh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandora-Manmeetsinh&theme=radical" alt="GitHub Streak" />
